@@ -1,3 +1,4 @@
 [submodule "git-module-example-submodule"]
 	path = git-module-example-submodule
 	url = git@github.com:olezhuravlev/git-module-example-submodule.git
+	branch = Stable
